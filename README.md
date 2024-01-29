@@ -9,7 +9,7 @@
 
 ## About
 
-Simple and intuitive interface. The peculiarity of this game is that you need to move the cannon to the right or left and shoot at the stones and earn coins. The game contains some improvements that can be purchased for coins.
+Ball Blast is a unique arcade game that combines strategy elements. The player controls a small cart whose task is to destroy moving stones. It is possible to upgrade using coins.
 
 ## Developers
 
