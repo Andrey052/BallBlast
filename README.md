@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="https://i.ibb.co/D5C75xY/Icon.png" alt="Project Logo Url" width="726">
+      <img src="https://i.ibb.co/D5C75xY/Icon.png" alt="Project Logo Url" width="300">
 </p>
 
 <p align="center">
